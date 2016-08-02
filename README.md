@@ -1,5 +1,5 @@
 # execs
-Tool to run haskell [stack](https://docs.haskellstack.org/en/stable/README/) exec prj-exe more easy
+Tool to run haskell `stack exec prj-exe` more easy
 
 ## Usage
 ```
